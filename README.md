@@ -11,11 +11,17 @@ This project focuses on exploratory data analysis (EDA) and regression modeling 
 ⸻
 
 🛠️ Technologies Used
+
 	•	Python
+	
 	•	Pandas
+	
 	•	NumPy
+	
 	•	Matplotlib
+	
 	•	Seaborn
+	
 	•	Scikit-learn
 
 ⸻
